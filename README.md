@@ -1,78 +1,218 @@
-# React-Native-CLI-Study
-📱 Curso de React Native - Proyecto MyFirstApp, NavigationApp y más
+# 📱 Curso de React Native - Proyecto MyFirstApp, NavigationApp y más
 
-📚 Secciones del Curso
-🔹 Sección 1: Proyecto MyFirstApp
-Introducción y objetivos generales.
+Este repositorio contiene el código fuente y resumen de clases del curso práctico de React Native. El curso se divide en múltiples secciones enfocadas en el desarrollo de interfaces, navegación, componentes personalizados, y gestión del estado con librerías modernas.
 
-Estructura inicial de un proyecto React Native.
+---
 
-Crear pantallas y componentes personalizados (PrimaryButton, Pressable, etc.).
+## 📦 Contenido del Curso
 
-Contador funcional y propiedades básicas.
+---
 
-Uso de documentación y librerías externas.
+### 🔹 Sección 1: Proyecto MyFirstApp
 
-Instalación de React Native Paper.
+- `40.` Introducción a la sección  
+- `41.` Temas puntuales de la sección  
+- `42.` Demostración del objetivo final de la sección  
+- `43.` Inicio de proyecto - MyFirstApp  
+- `44.` Hola Mundo  
+- `45.` Explicación de archivos y directorios  
+- `46.` Crear pantallas independientes  
+- `47.` Propiedades de un componente  
+- `48.` Crear un contador  
+- `49.` Personalización Pressable  
+- `50.` Componente personalizado PrimaryButton  
+- `51.` Tip: ¿Cómo ver los ejemplos de la documentación?  
+- `52.` Componentes estilizados  
+- `53.` React Native Paper - Instalación  
+- `54.` Floating Action Button (FAB)  
+- `55.` Iconos en React Native - Android  
+- `56.` Iconos en React Native - iOS  
+- `57.` Configurar iconos globales  
+- `58.` Resumen de lo aprendido hasta el momento  
+- `59.` Código fuente de la sección  
 
-Añadir FAB e iconos personalizados para Android y iOS.
+---
 
-🔧 Resultado: Aplicación base funcional con navegación entre pantallas y diseño personalizado.
+### 🔹 Sección 2: Diseño con Flexbox y Estilos
 
-🔹 Sección 2: Diseño con Flexbox y Estilos
-Box Model: Padding, Margin, Border, Width y Height.
+- `60.` Introducción a la sección  
+- `61.` Temas puntuales de la sección  
+- `62.` Box Object Model - Fundamentos del diseño  
+- `63.` Continuación de proyecto - Diseños y Flexbox  
+- `64.` Padding, Margin, Border, Width y Height  
+- `65.` Height, Width porcentual y dimensiones de la pantalla  
+- `66.` Position - Fundamentos del diseño  
+- `67.` Posición relativa  
+- `68.` Posición absoluta  
+- `69.` Flexbox - Fundamentos del diseño en React Native  
+- `70.` Flex  
+- `71.` Flex Direction  
+- `72.` Align Items  
+- `73.` Align Self  
+- `74.` Flex Wrap  
+- `75.` Preparación para la tarea  
+- `76.` Tarea sobre diseños  
+- `77.` Resolución de la tarea de diseños  
+- `78.` Código fuente de la sección  
 
-Uso de dimensiones relativas y absolutas.
+---
 
-Posicionamiento (relative, absolute).
+### 🔹 Sección 3: Navegación con React Navigation
 
-Fundamentos de Flexbox (flex, flexDirection, alignItems, etc.).
+- `96.` Introducción a la sección  
+- `97.` Temas puntuales de la sección  
+- `98.` Demostración de la sección  
+- `99.` Inicio de proyecto - NavigationApp  
+- `100.` Explicación sobre el sistema de navegación  
+- `101.` Archivos y directorios del proyecto  
+- `102.` React Navigation - Pre-requisitos  
+- `103.` React Navigation - Stack  
+- `104.` Navegar a otras pantallas  
+- `105.` Estilizando el Stack Navigator  
+- `106.` FlatList - Pantalla de productos  
+- `107.` Enviar argumentos entre pantallas  
+- `108.` Stack - PopToTop  
+- `109.` React Navigation - Drawer  
+- `110.` Configurar Drawer básico  
+- `111.` Toggle Drawer - Mostrar / Ocultar  
+- `112.` Drawer personalizado  
+- `113.` useSafeAreaInsets  
+- `114.` Código fuente de la sección  
 
-Tareas prácticas para dominar el layout.
+---
 
-🎯 Resultado: Dominio del sistema de diseño de interfaces en React Native.
+### 🔹 Sección 4: Bottom y Top Tabs
 
-🔹 Sección 3: Navegación con React Navigation
-Configuración inicial de proyecto NavigationApp.
+- `115.` Introducción a la sección  
+- `116.` Temas puntuales de la sección  
+- `117.` Demostración del objetivo de la sección  
+- `118.` Continuación de proyecto  
+- `119.` Explicación sobre el Bottom Tab Navigator  
+- `120.` Crear el BottomTabNavigator  
+- `121.` Personalizando el BottomTabNavigator  
+- `122.` Menú de hamburguesa  
+- `123.` Material Top Tab Navigator  
+- `124.` Iconos - Instalaciones  
+- `125.` Instalación de íconos en iOS  
+- `126.` Colocando íconos  
+- `127.` Código fuente de la sección  
 
-Stack Navigator: navegación entre pantallas y paso de argumentos.
+---
 
-FlatList para listas de productos.
+### 🔹 Sección 5: Gestores de Estado - Context y Zustand
 
-Drawer Navigator: creación, personalización y toggle.
+- `128.` Introducción a la sección  
+- `129.` Temas puntuales de la sección  
+- `130.` Introducción - Gestor de estado  
+- `131.` Inicio de proyecto - Context App  
+- `132.` Preparación de la aplicación y tarea  
+- `133.` Resolución de la tarea  
+- `134.` Zustand - Gestor de Estado  
+- `135.` Cambios en el Store  
+- `136.` Tarea - CounterStore  
+- `137.` Solución de la tarea  
+- `138.` Código fuente de la sección  
 
-Manejo de SafeArea para dispositivos con notch o barras.
+---
 
-🧭 Resultado: App con navegación completa, Drawer personalizado e interacción entre pantallas.
+## 🚀 Requisitos del Proyecto
 
-🔹 Sección 4: Bottom y Top Tabs
-Bottom Tab Navigator: creación y personalización.
+- Node.js y npm o yarn
+- React Native CLI o Expo
+- Emulador Android/iOS o dispositivo físico
 
-Menú de hamburguesa y navegación combinada.
+---
 
-Material Top Tab Navigator.
+## ▶️ Cómo ejecutar el proyecto
 
-Instalación y uso de iconos en Android y iOS.
+```bash
+git clone https://github.com/tu-usuario/tu-repo.git
+cd tu-repo
+npm install
+npx react-native run-android - npm run android
+# o para iOS
+npx react-native run-ios
 
-📲 Resultado: App con múltiples navegadores (Stack, Drawer, Bottom y Top Tabs) totalmente funcionales.
+## 📚 Recursos y Documentación
 
-🔹 Sección 5: Gestores de Estado (Context y Zustand)
-Introducción al manejo de estado global.
+A continuación se listan los módulos, herramientas, librerías y sitios oficiales utilizados como referencia a lo largo del curso:
 
-Creación de un proyecto con Context API.
+---
 
-Uso de Zustand para crear un Store.
+### 🔧 Configuración del entorno y desarrollo
 
-Tareas y soluciones prácticas con manejo de estado.
+- [React Native Docs](https://reactnative.dev/)  
+  Documentación oficial de React Native.
 
-🧠 Resultado: App con estado global manejado de forma eficiente y moderna.
+- [Guía de configuración del entorno](https://reactnative.dev/docs/environment-setup)  
+  Pasos para configurar tu ambiente de desarrollo (MacOS, Windows, Linux).
 
-📂 Código Fuente
-Cada sección incluye una carpeta con el código fuente correspondiente y archivos listos para ser ejecutados o usados como referencia.
+- [Guía específica: entorno nativo iOS en MacOS](https://reactnative.dev/docs/environment-setup?guide=native&os=macos&platform=ios)
 
-🛠️ Requisitos
-Node.js y npm/yarn instalados
+- [Ejecución en dispositivo físico](https://reactnative.dev/docs/running-on-device)  
+  Cómo probar tu app en un dispositivo móvil.
 
-React Native CLI o Expo
+---
 
-Android Studio o Xcode (para pruebas en emuladores o dispositivos reales)
+### 🧱 Componentes y diseño
+
+- [Componentes y APIs de React Native](https://reactnative.dev/docs/components-and-apis)  
+  Referencia oficial de todos los componentes y APIs integradas.
+
+- [Dimensiones de pantalla](https://reactnative.dev/docs/dimensions)  
+  Uso de la API `Dimensions` para obtener tamaño del dispositivo.
+
+- [Flexbox en React Native](https://reactnative.dev/docs/flexbox)  
+  Guía oficial sobre diseño con Flexbox.
+
+- [React Native Paper](https://reactnativepaper.com/)  
+  Librería de UI para React Native basada en Material Design.
+
+---
+
+### 🧭 Navegación
+
+- [React Navigation - Getting Started](https://reactnavigation.org/docs/getting-started/)  
+  Inicio y configuración de navegación.
+
+- [Stack Navigator](https://reactnavigation.org/docs/stack-navigator/)  
+  Navegación con pilas.
+
+- [Drawer Navigator](https://reactnavigation.org/docs/drawer-navigator/)  
+  Menú lateral de navegación.
+
+- [Bottom Tab Navigator](https://reactnavigation.org/docs/bottom-tab-navigator/)  
+  Navegación inferior con pestañas.
+
+- [Material Top Tab Navigator](https://reactnavigation.org/docs/material-top-tab-navigator/)  
+  Navegación con pestañas en la parte superior.
+
+---
+
+### 🎨 Iconos
+
+- [React Native Vector Icons (Oblador)](https://github.com/oblador/react-native-vector-icons)  
+  Paquete de íconos ampliamente usado en RN.
+
+- [Ionicons](https://ionic.io/ionicons)  
+  Conjunto de íconos compatible con React Native Vector Icons.
+
+---
+
+### ✅ Formularios
+
+- [React Hook Form](https://react-hook-form.com/)  
+  Librería para manejo de formularios en React y React Native.
+
+---
+
+### ⚙️ Gestión de estado
+
+- [Zustand - Documentación oficial](https://zustand.docs.pmnd.rs/getting-started/introduction)  
+  Librería para gestión de estado simple y moderna.
+
+- [Zustand Demo](https://zustand-demo.pmnd.rs/)  
+  Demo interactiva para probar Zustand.
+
+---
+
